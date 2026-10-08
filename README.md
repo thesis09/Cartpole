@@ -150,15 +150,6 @@ This project demonstrates:
 
 This pattern — train big, deploy lean — is directly applicable to production ML systems where inference budget is the binding constraint.
 
----
-
-## 📎 Related
-
-- [LunarLander-v2 (vector obs, same architecture)](https://github.com/thesis09/Lunar-Lander) — 280+ reward, 35k steps
-- [Quantitative Crypto Pipeline](https://github.com/thesis09/Quantitative-Crypto-Research-Predictive-Pipeline)
-
----
-
 ## License
 
 MIT
